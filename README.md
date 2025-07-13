@@ -5,6 +5,9 @@ Built with **Python**, **Streamlit**, **pdfplumber**, and **matplotlib**.
 
 ---
 
+[![Streamlit App](https://img.shields.io/badge/View%20App-Streamlit-4green?logo=streamlit)](https://salary-slip-analyzer-bot-mayh59vuntogvqmdsus2wa.streamlit.app/)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
 ## 📌 Features
 
 ✅ Upload `.pdf` or `.txt` salary slips  
