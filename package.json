@@ -1,0 +1,29 @@
+{
+  "name": "salary-slip-analyzer-bot",
+  "version": "1.0.0",
+  "description": "A bot for analyzing salary slips and generating reports.",
+  "main": "src/bot/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "start": "node dist/bot/index.js"
+  },
+  "dependencies": {
+    "typescript": "^4.5.4",
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.0.2",
+    "@typescript-eslint/eslint-plugin": "^5.0.0",
+    "@typescript-eslint/parser": "^5.0.0",
+    "eslint": "^7.32.0"
+  },
+  "keywords": [
+    "salary",
+    "slip",
+    "analyzer",
+    "bot"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}

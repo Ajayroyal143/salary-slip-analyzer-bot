@@ -1,0 +1,20 @@
+Employee Name: Ajay Royal
+Employee ID: 12345
+Designation: Data Analyst
+Department: Data Science
+Pay Period: June 2025
+
+Earnings
+---------
+Basic Pay: ₹30,000
+HRA: ₹12,000
+Conveyance: ₹1,600
+Special Allowance: ₹4,400
+
+Deductions
+-----------
+PF: ₹3,600
+Professional Tax: ₹200
+TDS: ₹1,500
+
+Net Pay: ₹42,700
