@@ -56,6 +56,11 @@ streamlit run app.py
 Or Run the CLI Script
 python analyze_slip.py
 
+## 📷 Demo
+
+![demo](docs/demo.gif)
+
+
 📤 Output Example
 Extracted CSV file (`output/salary_slip_analyzed.csv`)
 Employee Name,Employee ID,Designation,Department,Pay Period,Basic Pay,HRA,Conveyance,Special Allowance,PF,Professional Tax,TDS,Net Pay
